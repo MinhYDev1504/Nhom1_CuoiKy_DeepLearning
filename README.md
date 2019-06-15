@@ -1,8 +1,9 @@
 # Nhom1_CuoiKy_DeepLearning
 Đồ án cuối kỳ môn Deep Learning - Nhóm 1
+
 # Feature Pyramid Networks for Object Detection
 ## Train on VOC 2007 trainval and test on VOC 2007 test
-## Development Environment
+## Development Environment (Encourage to use Google Colab)
 
 1.python3.5 (anaconda recommend)
 
